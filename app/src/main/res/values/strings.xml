@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ByqAccessibleService</string>
+    <string name="description">读取屏幕信息，读取题目信息</string>
+</resources>
